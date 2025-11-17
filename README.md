@@ -1,15 +1,9 @@
-⚡ PC Optimizer – Script d’Optimisation Windows
+✨ Fonctionnalités
+🧹 Nettoyage Automatique
 
-J’ai créé un petit outil d’optimisation pour Windows permettant d’améliorer légèrement les performances de votre PC.
-Le script exécute automatiquement plusieurs commandes de nettoyage et de maintenance pour éliminer les fichiers temporaires et inutiles.
+L’outil supprime automatiquement :
 
-Ce projet est 100% open source et peut être modifié librement.
-
-🧹 Ce que fait l’outil
-
-Le script effectue plusieurs actions d’optimisation, dont :
-
-Suppression automatique des fichiers temporaires :
+Les fichiers temporaires :
 
 %temp%
 
@@ -17,31 +11,38 @@ temp
 
 prefetch
 
-Nettoyage de fichiers inutiles
+Les caches inutiles
 
-Libération d’espace disque
+Les fichiers résiduels qui peuvent ralentir votre PC
 
-Amélioration légère des performances système
+⚡ Optimisation Légère du Système
 
-Commandes Windows automatisées pour faciliter la maintenance
+Libère de l’espace disque
 
-Il ne modifie aucun paramètre sensible ou critique du système.
-Il se contente de nettoyer ce qui peut ralentir un PC au quotidien.
+Améliore la réactivité générale
 
-📦 Installation & Utilisation
+Réduit l’encombrement des fichiers temporaires
 
-Téléchargez le fichier PC Optimizer (open source).
+🛠️ Sans Risque
 
-Exécutez le script en tant qu’administrateur pour une optimisation complète.
+Aucun fichier système important n’est modifié
+
+Aucune modification du registre ou des paramètres sensibles
+
+Tout le contenu supprimé est considéré comme sûr et inutile
+
+🚀 Installation & Utilisation
+
+Téléchargez le script PC Optimizer
+
+Faites un clic droit → Exécuter en tant qu’administrateur
+
+Laissez l’outil travailler automatiquement
+
+Votre PC est nettoyé en quelques secondes ✨
 
 ⚠️ Avertissement
 
-L’outil est conçu pour un nettoyage non destructif.
-
-Il ne supprime que des fichiers temporaires et sûrs.
-
-Utilisation à vos propres risques (comme tout script système).
-
-Laissez le programme effectuer les tâches automatiquement.
-
-Profitez d’un système un peu plus propre et réactif !
+➡️ Cet outil est destiné uniquement au nettoyage non destructif.
+➡️ Utilisez-le à vos risques et périls (comme pour tout script système).
+➡️ Aucune suppression dangereuse n’est effectuée, mais soyez toujours prudent.
